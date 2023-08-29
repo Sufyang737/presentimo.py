@@ -25,4 +25,4 @@ INSERT INTO asistencia VALUES(1,'2023-08-18','Presente',1);
 INSERT INTO alumnos VALUES(2,'Roman','Abalos','Ishida','4°2°','Manana');
 INSERT INTO asistencia VALUES(2,'2023-08-18','Tarde',2);
 
-SELECT * from alumnos
+SELECT* from alumnos
